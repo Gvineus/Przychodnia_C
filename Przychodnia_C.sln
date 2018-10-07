@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Przychodnia_C", "Przychodnia_C\Przychodnia_C.vcxproj", "{E26747DC-DE35-45E5-87B9-2C28203D15BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E26747DC-DE35-45E5-87B9-2C28203D15BD}.Debug|x64.ActiveCfg = Debug|x64
+		{E26747DC-DE35-45E5-87B9-2C28203D15BD}.Debug|x64.Build.0 = Debug|x64
+		{E26747DC-DE35-45E5-87B9-2C28203D15BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{E26747DC-DE35-45E5-87B9-2C28203D15BD}.Debug|x86.Build.0 = Debug|Win32
+		{E26747DC-DE35-45E5-87B9-2C28203D15BD}.Release|x64.ActiveCfg = Release|x64
+		{E26747DC-DE35-45E5-87B9-2C28203D15BD}.Release|x64.Build.0 = Release|x64
+		{E26747DC-DE35-45E5-87B9-2C28203D15BD}.Release|x86.ActiveCfg = Release|Win32
+		{E26747DC-DE35-45E5-87B9-2C28203D15BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {404597EA-D39D-4F71-B14A-C475BBD5B250}
+	EndGlobalSection
+EndGlobal
