@@ -13,6 +13,7 @@ int main()
 	char imie[10], nazwisko[10];
 	typ_pacjenta *pacjent;
 	int rozmiar = 10;
+	printf("Podaj imie, nazwisko,wiek\n");
 	scanf("%s,%s,%d", imie, nazwisko, wiek);
 	printf("Witaj");
 	getchar();
